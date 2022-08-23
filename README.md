@@ -105,13 +105,34 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Justin Dennis [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Twitter_white.png" width="18">][1] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Outlook_white.png" width="18">][2] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Github_white.png" width="18">][3] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/LinkedIN_white.png" width="18">][4]
+Timothy O'Brien [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Outlook_white.png" width="18">][2] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Github_white.png" width="18">][3] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/LinkedIN_white.png" width="18">][4]
+
+Justin Dennis [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Twitter_white.png" width="18">][5] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Outlook_white.png" width="18">][6] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Github_white.png" width="18">][7] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/LinkedIN_white.png" width="18">][8]
+
+Nathan Jenkins [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Outlook_white.png" width="18">][10] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Github_white.png" width="18">][11] 
+
+Vittorio Natoli [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Instagram_white.png" width="18">][13] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Outlook_white.png" width="18">][14] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Github_white.png" width="18">][15] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/LinkedIN_white.png" width="18">][16]
 
 Project Link: [https://github.com/Beefs4000/Testing](https://github.com/Beefs4000/Testing)
 
-[1]: https://twitter.com/Justo_Tron
-[2]: justin.dennis@hotmail.com
-[3]: https://github.com/Beefs4000
-[4]: https://www.linkedin.com/in/justin-dennis-853568114/
+[1]:
+[2]: timmobrien@icloud.com
+[3]: https://www.linkedin.com/in/timothymobrien29
+[4]: https://github.com/timmobrien
+
+[5]: https://twitter.com/Justo_Tron
+[6]: justin.dennis@hotmail.com
+[7]: https://github.com/Beefs4000
+[8]: https://www.linkedin.com/in/justin-dennis-853568114/ 
+
+[9]:
+[10]: njenkins2727@gmail.com
+[11]: https://github.com/njenkins2727
+[12]:
+
+[13]: https://www.instagram.com/vittorio.natoli/
+[14]: vittorio@emot.com.au
+[15]: https://github.com/Vittorioemot
+[16]: https://www.linkedin.com/in/vittorio-natoli-465b9811/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
