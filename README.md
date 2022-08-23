@@ -105,7 +105,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Justin Dennis - [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Twitter_white.png" width="20">][1] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Outlook_white.png" width="20">][2] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Github_white.png" width="20">][3] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/LinkedIN_white.png" width="20">][4]
+Justin Dennis [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Twitter_white.png" width="18">][1] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Outlook_white.png" width="18">][2] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Github_white.png" width="18">][3] [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/LinkedIN_white.png" width="18">][4]
 
 Project Link: [https://github.com/Beefs4000/Testing](https://github.com/Beefs4000/Testing)
 
