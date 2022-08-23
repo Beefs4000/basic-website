@@ -115,7 +115,7 @@ Vittorio Natoli [<img src="https://github.com/gauravghongde/social-icons/blob/9d
 
 Project Link: [https://github.com/Beefs4000/Testing](https://github.com/Beefs4000/Testing)
 
-[1]:
+
 [2]: timmobrien@icloud.com
 [3]: https://www.linkedin.com/in/timothymobrien29
 [4]: https://github.com/timmobrien
@@ -125,10 +125,10 @@ Project Link: [https://github.com/Beefs4000/Testing](https://github.com/Beefs400
 [7]: https://github.com/Beefs4000
 [8]: https://www.linkedin.com/in/justin-dennis-853568114/ 
 
-[9]:
+
 [10]: njenkins2727@gmail.com
 [11]: https://github.com/njenkins2727
-[12]:
+
 
 [13]: https://www.instagram.com/vittorio.natoli/
 [14]: vittorio@emot.com.au
