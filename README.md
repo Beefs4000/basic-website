@@ -111,6 +111,8 @@ Justin Dennis - [@Justo_Tron](https://twitter.com/Justo_Tron) - justin.dennis@ho
 [![Twitter](https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Twitter_white.png)][1]
 ---
 
+[[Twitter]<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Twitter_white.png" width="48">][1]
+
 Project Link: [https://github.com/Beefs4000/Testing](https://github.com/Beefs4000/Testing)
 
 [1]: https://github.com/Beefs4000
