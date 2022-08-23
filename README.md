@@ -105,16 +105,13 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Justin Dennis - [@Justo_Tron](https://twitter.com/Justo_Tron) - justin.dennis@hotmail.com - [GitHub](https://github.com/Beefs4000) - [LinkedIn](https://www.linkedin.com/in/justin-dennis-853568114/)
-
----
-[![Twitter](https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Twitter_white.png)][1]
----
-
-[<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Twitter_white.png" width="38">][1]
+Justin Dennis - [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Twitter_white.png" width="38">][1] - [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Outlook_white.png" width="38">][2] - [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/Github_white.png" width="38">][3] - [<img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/White/LinkedIN_white.png" width="38">][4]
 
 Project Link: [https://github.com/Beefs4000/Testing](https://github.com/Beefs4000/Testing)
 
 [1]: https://twitter.com/Justo_Tron
+[2]: justin.dennis@hotmail.com
+[3]: https://github.com/Beefs4000
+[4]: https://www.linkedin.com/in/justin-dennis-853568114/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
